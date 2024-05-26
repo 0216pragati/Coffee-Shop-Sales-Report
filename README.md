@@ -1,5 +1,13 @@
 # Coffee-Shop-Sales-Report
-Ms Excel Project 
+Ms Excel Project
+Customize the report layout and calculations according to your specific requirements.Unveil customer behaviors, product patterns, and business trends. Join me on this data-driven exploration of the coffee world!
+#excel
+#dashboard
+#daraceaning
+#datanalysing
+
+
+
 
 **Project Overview :**
 Welcome to the Coffee Shop Sales Data Analysis project repository! This project showcases an in-depth data analysis of coffee shop sales using advanced Excel techniques. The analysis provides insights into product details, revenue generated, and other relevant metrics.
